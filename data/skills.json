@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "/lexnlin-6161a6",
+    "id": "lexnlin-6161a6",
+    "pageUrl": "https://prompt-motion.com/lexnlin-6161a6",
+    "title": "Cinetic skill launch film",
+    "contentType": "Skill",
+    "author": "@LexnLin",
+    "sourcePostUrl": "https://x.com/LexnLin/status/2106891315371737480",
+    "tags": [
+      "Product UI",
+      "Code"
+    ],
+    "metadata": {
+      "Model": "Opus 5.5",
+      "Posted": "Oct 4, 2026"
+    },
+    "videoUrl": "https://media.prompt-motion.com/lexnlin-6161a6/video.45c0b958.mp4",
+    "videoFile": "videos/lexnlin-6161a6.mp4",
+    "promptText": "An agent skill that has your coding agent concept, brand, score and render a short cinematic launch film or motion piece from code.\n\nInstall:\nnpx skills add Leonxlnx/cinetic",
+    "skillData": {
+      "description": "An agent skill that has your coding agent concept, brand, score and render a short cinematic launch film or motion piece from code.",
+      "installCommands": [
+        "npx skills add Leonxlnx/cinetic"
+      ],
+      "githubRepos": [
+        "https://github.com/Leonxlnx/cinetic"
+      ]
+    }
+  },
+  {
+    "slug": "/anthonyriera-9b1b2a",
+    "id": "anthonyriera-9b1b2a",
+    "pageUrl": "https://prompt-motion.com/anthonyriera-9b1b2a",
+    "title": "Reddit marketing tool launch video",
+    "contentType": "Skill",
+    "author": "@anthonyriera",
+    "sourcePostUrl": "https://x.com/anthonyriera/status/2103784508860305566",
+    "tags": [
+      "Product UI",
+      "Characters"
+    ],
+    "metadata": {
+      "Model": "Opus 5.5",
+      "Iterations": "Many rounds",
+      "Stack": "Remotion",
+      "Posted": "Sep 26, 2026"
+    },
+    "videoUrl": "https://media.prompt-motion.com/anthonyriera-wtf-opus-5-5-is/video.860c509b.mp4",
+    "videoFile": "videos/anthonyriera-9b1b2a.mp4",
+    "promptText": "A Claude Code skill that learns your product's design system, interviews you about the film, then builds and renders a launch or landing-page video in Remotion using your real components, logo and music.\n\nInstall:\n/plugin marketplace add Rieranthony/product-film-skill\n/plugin install product-film@product-film-skill",
+    "skillData": {
+      "description": "A Claude Code skill that learns your product's design system, interviews you about the film, then builds and renders a launch or landing-page video in Remotion using your real components, logo and music.",
+      "installCommands": [
+        "/plugin marketplace add Rieranthony/product-film-skill\n/plugin install product-film@product-film-skill"
+      ],
+      "githubRepos": [
+        "https://github.com/Rieranthony/product-film-skill"
+      ]
+    }
+  },
+  {
+    "slug": "/jake11moran-a269c4",
+    "id": "jake11moran-a269c4",
+    "pageUrl": "https://prompt-motion.com/jake11moran-a269c4",
+    "title": "Animated agent session story",
+    "contentType": "Skill",
+    "author": "@jake11moran",
+    "sourcePostUrl": "https://x.com/jake11moran/status/2103247490237825416",
+    "tags": [
+      "Characters"
+    ],
+    "metadata": {
+      "Model": "Opus 5.5",
+      "Stack": "HyperFrames",
+      "Posted": "Sep 24, 2026"
+    },
+    "videoUrl": "https://media.prompt-motion.com/jake11moran-session-story-created-a-skill/video.13dbb433.mp4",
+    "videoFile": "videos/jake11moran-a269c4.mp4",
+    "promptText": "Has your agent read your local Claude Code history and turn a typical session with you into a short scored animated film rendered in HyperFrames.\n\nInstall:\nnpx skills add heygen-com/hyperframes-community-skills --skill session-story",
+    "skillData": {
+      "description": "Has your agent read your local Claude Code history and turn a typical session with you into a short scored animated film rendered in HyperFrames.",
+      "installCommands": [
+        "npx skills add heygen-com/hyperframes-community-skills --skill session-story"
+      ],
+      "githubRepos": [
+        "https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story"
+      ]
+    }
+  },
+  {
+    "slug": "/buildfastwithai-53234e",
+    "id": "buildfastwithai-53234e",
+    "pageUrl": "https://prompt-motion.com/buildfastwithai-53234e",
+    "title": "Indian civilisation history film",
+    "contentType": "Skill",
+    "author": "@BuildFastWithAI",
+    "sourcePostUrl": "https://x.com/BuildFastWithAI/status/2104451249269780900",
+    "tags": [
+      "Diagrams"
+    ],
+    "metadata": {
+      "Model": "Opus 5.5",
+      "Iterations": "One-shot",
+      "Posted": "Sep 28, 2026"
+    },
+    "videoUrl": "https://media.prompt-motion.com/buildfastwithai-opus-5-5-just-created/video.38fed458.mp4",
+    "videoFile": "videos/buildfastwithai-53234e.mp4",
+    "promptText": "generate a creative mp4 video on indian civilisation with music and sound effects.\n\n[Claude Code Skill]\nA Claude skill that makes an animated MP4 film on any topic, with every frame drawn in code and a synthesised, beat-synced soundtrack.\n\nInstall:\nnpx skills@latest add https://github.com/buildfastwithai/buildfast-skills",
+    "skillData": {
+      "description": "A Claude skill that makes an animated MP4 film on any topic, with every frame drawn in code and a synthesised, beat-synced soundtrack.",
+      "installCommands": [
+        "npx skills@latest add https://github.com/buildfastwithai/buildfast-skills"
+      ],
+      "githubRepos": [
+        "https://github.com/buildfastwithai/buildfast-skills/tree/main/generative-film-skill"
+      ]
+    }
+  }
+]
